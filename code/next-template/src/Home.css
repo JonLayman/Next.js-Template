@@ -1,0 +1,15 @@
+.container-section {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  font-size: 1.875rem;
+  font-weight: bold;
+}
